@@ -1,0 +1,23 @@
+{
+  "name": "ls_intro_to_js",
+  "version": "1.0.0",
+  "description": "Following the Launch School Intro. to Java Script course https://launchschool.com/books/javascript/read/preparations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbkdef/LS_intro_to_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbkdef/LS_intro_to_JS/issues"
+  },
+  "homepage": "https://github.com/wbkdef/LS_intro_to_JS#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
